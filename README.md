@@ -208,3 +208,6 @@
 <p dir="auto"><strong>Note</strong>
 The Proficiency Ratings are given by me, based on how well I can work with the given <code>Langauge</code> if given a task of any level.</p>
 </blockquote>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad7264&show_icons=true&locale=en&layout=compact" alt="ahmad7264" /></p>
